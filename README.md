@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faried</h1>
 <h3 align="center">A JavaScript-based Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hxrvza&label=Profile%20views&color=0e75b6&style=flat" alt="hxrvza" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
