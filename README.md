@@ -9,17 +9,15 @@
 
 # 💻 Tech Stack
 **Language** <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus"  />
   
 
 **Sofware Coding** <div align="left"> 
@@ -27,3 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div> <br/>
+
+**Other** <div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"  />
+  <img width="12" />
