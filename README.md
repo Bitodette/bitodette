@@ -27,3 +27,5 @@
 **Other** <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"  />
   <img width="12" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=literataa)](https://github.com/anuraghazra/github-readme-stats)
