@@ -21,9 +21,7 @@
   
 
 **Sofware Coding** <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"  />
 </div> <br/>
 
 **Other** <div align="left">
