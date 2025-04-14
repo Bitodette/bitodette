@@ -1,6 +1,6 @@
 <h1 align="center"> 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 </h1><br/>
 
-- 👋 Hi, My name is M. Faried Risky Feriawan , u can call me Rid
+- 👋 Hi, My name is Faried, u can call me Rid
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on Making project
