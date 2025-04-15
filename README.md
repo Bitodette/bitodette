@@ -29,4 +29,4 @@
   <img width="12" />
 
   
-![literataa Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitodette&theme=onedark)
+![literataa Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitodette)
