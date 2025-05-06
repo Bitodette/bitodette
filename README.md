@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"  />
 </div>
 <br/>
 
