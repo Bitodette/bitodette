@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! Welcome to my Profile! 👋</h1>
+<h1 align="center">Hey there! Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
   <em>I'm Faried (you can call me Rid!) - a dev who's all about diving into code and tech.</em>
 </p>
