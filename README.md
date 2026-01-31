@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Bitodette&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=FFFFFF" width="100%" />
-</div>
-
-### User Configuration
-
 ```bash
 # user_profile.sh
 USER="Bitodette"
@@ -20,7 +14,7 @@ CURRENT_FOCUS=("Scalable Systems" "Database Optimization")
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,js,php,laravel,tailwind,bootstrap,mysql,postgresql,docker,linux,arch,vim&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,js,php,laravel,tailwind,bootstrap,mysql,postgresql,docker,linux,arch,neovim&perline=7&theme=dark" />
   </a>
 </div>
 
