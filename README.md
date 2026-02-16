@@ -22,6 +22,7 @@ CURRENT_FOCUS=("Scalable Systems" "Database Optimization")
 
 <div align="center">
 
+
 <a href="https://wakatime.com/@ab2a6f2f-18b3-4713-ab3d-c3f47b85af5f">
   <img src="https://wakatime.com/badge/user/ab2a6f2f-18b3-4713-ab3d-c3f47b85af5f.svg" alt="Total time coded since Jun 11 2025" /></a>
 </div>
@@ -30,4 +31,8 @@ CURRENT_FOCUS=("Scalable Systems" "Database Optimization")
 
 <p align="center">
   <samp>COMMIT EARLY, COMMIT OFTEN.</samp>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bitodette&label=PROFILE+VIEWS&color=0078d7&style=for-the-badge" alt="Bitodette Views" />
 </p>
