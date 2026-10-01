@@ -1,9 +1,6 @@
 ```bash
 # user_profile.sh
 USER="Bitodette"
-OS="Arch Linux"
-WM="Hyprland"
-SHELL="zsh"
 ROLE="Backend Developer"
 CURRENT_FOCUS=("Scalable Systems" "Database Optimization")
 ```
